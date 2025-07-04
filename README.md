@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asrori</h1>
-<p align="center">💛 <strong>Gift First. Code Second. Leverage Always.</strong> 💻</p>
+<p align="center">💛 <strong>Gift First. Code Second. Leverage Always.</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
