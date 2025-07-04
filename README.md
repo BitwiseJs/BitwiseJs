@@ -24,7 +24,7 @@ I build, learn, and give back — from mini tools to full-featured apps.
 
 ### 🧰 Tech Stack
 
-```js
+```
 Languages     : JavaScript, HTML, CSS  
 Frameworks    : React, Next.js  
 Styling       : Tailwind CSS, Sass  
