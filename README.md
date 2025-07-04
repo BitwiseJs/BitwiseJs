@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asrori</h1>
-<p align="center"><strong>Building, learning, and sharing the journey..</strong></p>
+<p align="center"><strong>Building, learning, and sharing the journey.</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -48,4 +48,5 @@ Tools & Other : Git, Firebase, Figma, AI tools
 </p>
 
 > 💡 "Continuous learning and sharing are the pillars of growth."
+
 ✨ I build to create. I share to empower.
