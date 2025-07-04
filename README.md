@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asrori</h1>
-<p align="center">💛 <strong>Gift First. Code Second. Leverage Always.</strong></p>
+<p align="center"><strong>Building, learning, and sharing the journey..</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -12,13 +12,12 @@
 
 ### 🌱 About Me
 
-I'm a frontend-focused developer who believes in *sharing first*.  
-I build, learn, and give back — from mini tools to full-featured apps.
+I'm a frontend-focused developer passionate about creating intuitive user experiences and contributing to the community. I believe in the power of open knowledge and continuous learning.
 
-- 🔭 Currently building: open tools & UI experiments
-- 💡 Mindset: *Gift first, then leverage*
-- 🧠 Always learning: TypeScript, design systems, and AI for devs
-- ⚡ Dreaming of: becoming a dev who gives more than expected
+- 🔭 Currently exploring: open-source tools and UI experiments
+- 💡 Philosophy: Share knowledge, build impactful solutions, and always keep learning
+- 🧠 Eager to learn more about: TypeScript, design systems, and leveraging AI in development
+- ⚡ Aspiring to: become a developer who consistently delivers value and innovation
 
 ---
 
@@ -48,5 +47,5 @@ Tools & Other : Git, Firebase, Figma, AI tools
   </a>
 </p>
 
-> 🧠 "Giving value isn't a tactic. It's a habit."
-✨ I build to share. I share to grow.
+> 💡 "Continuous learning and sharing are the pillars of growth."
+✨ I build to create. I share to empower.
