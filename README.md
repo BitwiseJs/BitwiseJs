@@ -48,7 +48,12 @@ Tools & Other : Supabase, Git, Figma, Vite, VS Code, AI Tools
   <a href="mailto:mohfauzanasrori@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <br/>
+  <a href="https://www.instagram.com/mohfauzanasrori" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
