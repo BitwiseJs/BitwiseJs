@@ -52,6 +52,10 @@ Tools & Other : Supabase, Git, Figma, Vite, VS Code, AI Tools
   <a href="https://www.instagram.com/mohfauzanasrori" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
+<br/>
+<a href="https://wa.me/6288980798945" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+
 </p>
 
 
